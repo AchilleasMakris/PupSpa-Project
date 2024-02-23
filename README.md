@@ -40,5 +40,5 @@ Project is completed as required.
 Author/Contact
 
     M. Achilleas - Initial work
-    GitHub: https://achilleasm.github.io/PupSpa-Project/
+    Website Preview: https://pupspa-project.vercel.app/
     
